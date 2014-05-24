@@ -1,7 +1,7 @@
 Run Analysis
 ============
 
-This is a programming assignment for Coursera “Getting and Cleaning Data” class
+This is a programming assignment for Coursera “Getting and Cleaning Data” class.
 This text describes the steps used to create a tidy data file. 
 The final data was constructed through the merger of test and training data.  
 The data contains the variables showing means by subject and activity. 
