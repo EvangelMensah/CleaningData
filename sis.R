@@ -2,6 +2,7 @@
 
 ## **************** Getting data and load libraries code segment *****************
 
+# Load the necessary libraries 
 library(plyr)
 library(reshape)
 library(reshape2)
