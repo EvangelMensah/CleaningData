@@ -7,7 +7,7 @@ The final data was constructed through the merger of test and training data.
 The data contains the variables showing means by subject and activity. 
 
 
-####Before running this script:
+###Before running this script:
 
 * Install and load 'reshape' and 'reshape2' packages ( as the script will try to do )
 * If you don't have the download data for the project, please click below: 
@@ -21,7 +21,7 @@ A full description of this dataset is available at the site where the original d
 
 
 
-####The steps to use run_analysis.R script: 
+###The steps to use run_analysis.R script: 
 
 *	Download the run_analysis.R and saved it in your R working directory.
 *	In R Studio, at the command line of the console type, you can decide to source("run_analysis.R")  
