@@ -6,6 +6,7 @@ This text describes the steps used to create a tidy data file.
 The final data was constructed through the merger of test and training data.  
 The data contains the variables showing means by subject and activity. 
 
+
 ####Before running this script:
 
 * Install and load 'reshape' and 'reshape2' packages ( as the script will try to do )
@@ -16,6 +17,8 @@ The data contains the variables showing means by subject and activity.
 A full description of this dataset is available at the site where the original data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 *	Set the directory "UCI HAR Dataset" as your working directory in your R console
+
+
 
 
 ####The steps to use run_analysis.R script: 
