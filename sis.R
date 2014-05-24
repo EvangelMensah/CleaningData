@@ -81,7 +81,7 @@ tidy.data<- new.data[,col.num]
 tidy.data <- melt(tidy.data)
 tidy <-cast(tidy.data, ... ~ variable, mean) #means for each subject's activities
 
-tidy <- data.frame(tidy)
+tidy <- data.frame(tidy)  # The data are checked to ensure that they are syntactically valid variable names 
 write.table(tidy, "tidydata.txt")  # write the tidy data to a file in your working directory
  
 
